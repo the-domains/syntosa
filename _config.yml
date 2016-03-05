@@ -1,0 +1,28 @@
+name: Syntosa
+favicon: null
+layout_spectrum: 0.3444813466630876
+typography_spectrum: 0.7211308465339243
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3113162382505834
+  lightness: 0.7653136677108705
+  saturation: 0.4971198702696711
+  rhythmicContrast: 0.015684812795370817
+purpose: []
