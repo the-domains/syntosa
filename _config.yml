@@ -1,28 +1,40 @@
-name: Syntosa
-favicon: null
-layout_spectrum: 0.3444813466630876
-typography_spectrum: 0.7211308465339243
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 1
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.4971198702696711
+  brandStrength: 0.3113162382505834
+  rhythmicContrast: 0.01568481279537082
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.3113162382505834
   lightness: 0.7653136677108705
-  saturation: 0.4971198702696711
-  rhythmicContrast: 0.015684812795370817
-purpose: []
+typography_spectrum: 0.9148936
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Syntosa
